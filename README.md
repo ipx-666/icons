@@ -4,7 +4,7 @@ My personal icon library.
 
 ## Icons
 
-The Emby icon index is stored in [`emby/icons.json`](emby/icons.json).
+The Emby icon index is stored in [`emby/tubiao.json`](emby/tubiao.json).
 
 ### Emby
 
@@ -31,5 +31,5 @@ https://cdn.jsdelivr.net/gh/YOUR_USERNAME/icons@main/emby/sntp_shouhou.png
 Or read all icons from:
 
 ```text
-https://raw.githubusercontent.com/YOUR_USERNAME/icons/main/emby/icons.json
+https://raw.githubusercontent.com/YOUR_USERNAME/icons/main/emby/tubiao.json
 ```
