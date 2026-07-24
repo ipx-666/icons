@@ -1,0 +1,14 @@
+{
+  "name": "自用emby图标",
+  "description": "",
+  "icons": [
+    {
+      "name": "sntp_shouhou",
+      "url": "https://raw.githubusercontent.com/ipx-666/icons/main/emby/sntp_shouhou.png"
+    },
+    {
+      "name": "sntp_shouhou_dark",
+      "url": "https://raw.githubusercontent.com/ipx-666/icons/main/emby/sntp_shouhou_dark.png"
+    }
+  ]
+}
