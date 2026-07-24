@@ -4,6 +4,8 @@ My personal icon library.
 
 ## Icons
 
+The icon index is stored in [`icons.json`](icons.json).
+
 ### Emby
 
 | Name | Preview | Raw path |
@@ -20,3 +22,14 @@ https://raw.githubusercontent.com/YOUR_USERNAME/icons/main/emby/sntp_shouhou.png
 
 Replace `YOUR_USERNAME` with your GitHub username.
 
+You can also use jsDelivr:
+
+```text
+https://cdn.jsdelivr.net/gh/YOUR_USERNAME/icons@main/emby/sntp_shouhou.png
+```
+
+Or read all icons from:
+
+```text
+https://raw.githubusercontent.com/YOUR_USERNAME/icons/main/icons.json
+```
