@@ -1,10 +1,10 @@
 {
   "name": "icons",
-  "owner": "YOUR_USERNAME",
+  "owner": "ipx-666",
   "repository": "icons",
   "branch": "main",
-  "rawBaseUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/icons/main",
-  "jsdelivrBaseUrl": "https://cdn.jsdelivr.net/gh/YOUR_USERNAME/icons@main",
+  "rawBaseUrl": "https://raw.githubusercontent.com/ipx-666/icons/main",
+  "jsdelivrBaseUrl": "https://cdn.jsdelivr.net/gh/ipx-666/icons@main",
   "icons": [
     {
       "name": "sntp_shouhou",
