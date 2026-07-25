@@ -3,20 +3,16 @@
   "description": "",
   "icons": [
     {
-      "name": "sntp_shouhou",
+      "name": "SNTP_shouhou",
       "url": "https://raw.githubusercontent.com/ipx-666/icons/main/emby/sntp_shouhou.png"
     },
     {
-      "name": "sntp_shouhou_dark",
+      "name": "SNTP_shouhou_dark",
       "url": "https://raw.githubusercontent.com/ipx-666/icons/main/emby/sntp_shouhou_dark.png"
     },
     {
-      "name": "diaomao",
+      "name": "SNTP_diaomao",
       "url": "https://raw.githubusercontent.com/ipx-666/icons/main/emby/diaomao.png"
-    },
-    {
-      "name": "etflix_gongyi",
-      "url": "https://raw.githubusercontent.com/ipx-666/icons/main/emby/etflix_gongyi.png"
     }
   ]
 }
