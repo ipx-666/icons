@@ -1,0 +1,18 @@
+{
+  "name": "自用emby图标",
+  "description": "",
+  "icons": [
+    {
+      "name": "SNTP_shouhou",
+      "url": "https://github.chenc.dev/https://raw.githubusercontent.com/ipx-666/icons/main/emby/sntp_shouhou.png"
+    },
+    {
+      "name": "SNTP_shouhou_dark",
+      "url": "https://github.chenc.dev/https://raw.githubusercontent.com/ipx-666/icons/main/emby/sntp_shouhou_dark.png"
+    },
+    {
+      "name": "SNTP_diaomao",
+      "url": "https://github.chenc.dev/https://raw.githubusercontent.com/ipx-666/icons/main/emby/diaomao.png"
+    }
+  ]
+}
