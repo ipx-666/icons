@@ -4,7 +4,7 @@ My personal icon library.
 
 ## Icons
 
-The Emby icon index is stored in [`emby/tubiao.json`](emby/tubiao.json).
+The Emby icon index is stored in [`emby/icons.json`](emby/tubiao.json).
 
 ### Emby
 
