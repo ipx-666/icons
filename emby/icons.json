@@ -13,6 +13,14 @@
     {
       "name": "SNTP_diaomao",
       "url": "https://raw.githubusercontent.com/ipx-666/icons/main/emby/diaomao.png"
+    },
+    {
+      "name": "MissAV",
+      "url": "https://raw.githubusercontent.com/ipx-666/icons/main/emby/missav.png"
+    },
+    {
+      "name": "GetAV",
+      "url": "https://raw.githubusercontent.com/ipx-666/icons/main/emby/getav.png"
     }
   ]
 }
